@@ -9,7 +9,7 @@ I'm a passionate **Cyber Defense Specialist**, **AppSec Engineer**, and **Red Te
 ### 🧠 About Me
 
 - 🛡️ Security Obsessed | Code Hardened | Curiosity Driven
-- 🔭 Currently building [CyberSecElite](https://www.cybersecelite.com) – a cybersecurity learning and intelligence hub
+- 🔭 Currently working on Threat Intel App for Cybersecurity Specialist
 - 🧪 Playing with Raspberry Pi + Threat Intelligence Feeds
 - 📚 Learning more about malware analysis & reverse engineering
 - 📦 Writing tools for automation, threat detection, and CTFs
