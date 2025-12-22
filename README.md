@@ -37,7 +37,7 @@ I'm a passionate **Cyber Defense Specialist**, **AppSec Engineer**, and **Red Te
 ### 🧭 Let's Connect
 
 - 🌐 Website: [cybersecelite.com](https://www.cybersecelite.com)
-- 📧 Email: dior@cybersecelite.com
+- 📧 Email: diorjuraev@cybersecelite.com
 - 🐦 Twitter: [@cybersecelite](https://x.com/Cyb3rS3c3lit3)
 - 💼 LinkedIn: [linkedin.com/in/diyorbek-juraev-](https://www.linkedin.com/in/diyorbek-juraev-/)
 
